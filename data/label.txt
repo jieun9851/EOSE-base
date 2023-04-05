@@ -1,0 +1,8 @@
+UNK
+O
+PDT-B
+PDT-I
+MOV-B
+MOV-I
+TRV-B
+TRV-I
